@@ -1,0 +1,4 @@
+#Tue Jul 13 15:45:51 CST 2021
+base.0=/Users/chen/Desktop/fooderlich/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
